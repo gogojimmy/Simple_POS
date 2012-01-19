@@ -1,0 +1,248 @@
+
+AOTC\ System = AOTC System
+
+Account\ Manage = \u5E33\u865F\u7BA1\u7406
+
+Add = Add
+
+Admin\ Panel = Admin Panel
+
+All\: = All: 
+
+Cancel = \u53D6\u6D88
+
+Choose\ Excel\ file = Choose Excel file
+
+Choose\ path = Choose path
+
+Close = Close
+
+Confirm\ error = Confirm error
+
+Customer\ Manage = Customer Manage
+
+DB\ Setting = \u8CC7\u6599\u5EAB\u8A2D\u5B9A
+
+DB\ Test\ OK = \u8CC7\u6599\u5EAB\u9023\u7DDA\u6210\u529F
+
+DB\ Test\ faild = \u8CC7\u6599\u5EAB\u9023\u7DDA\u5931\u6557\uFF01 \u8ACB\u6AA2\u67E5\u5E33\u865F\u5BC6\u78BC\u662F\u5426\u932F\u8AA4
+
+Delete = Delete
+
+Delete\ faild = Delete faild
+
+Delete\ success = Delete success
+
+Duplicate\ name = Duplicate name
+
+Duplicate\ username = Duplicate username
+
+Edit = Edit
+
+Error = \u627E\u4E0D\u5230ip\u4F4D\u7F6E
+
+Excel\ error = Excel error
+
+File = \u6A94\u6848
+
+IP\ Address = IP Address\uFF1A
+
+Input = Input
+
+Input\ password = Input password
+
+Input\ password\ again = Input password again
+
+Input\ username = Input username
+
+Insert\ OK = Insert OK
+
+Insert\ Success = Insert Success
+
+Insert\ faild = Insert faild
+
+New\ User = Create user
+
+New\ user\ error\! = New user error!
+
+No\ Records = No Records
+
+OK = \u78BA\u5B9A
+
+Order_no = \u8A02\u55AE\u7DE8\u865F
+
+POS\ System = POS System
+
+Please\ input\ again = Please input again
+
+Please\ input\ new\ password = Please input new password
+
+Please\ input\ the\ name = Please input the name
+
+Please\ input\ the\ package\ no = Please input the package no
+
+Please\ input\ the\ password = Please input the password
+
+Please\ input\ the\ serial\ no = Please input the serial no
+
+Please\ input\ the\ username = Please input the username
+
+Q'ty = Q'ty
+
+Reposotory = Reposotory
+
+Save = \u5132\u5B58
+
+Save\! = \u5132\u5B58\u6210\u529F\uFF01
+
+Ship = \u6279
+
+Start\ Server = Start Server
+
+Stop\ Server = \u95DC\u9589Server
+
+Storage = \u5132
+
+Storage_date = \u5165\u5EAB\u65E5\u671F
+
+Storage_no = \u5165\u5EAB\u7DE8\u865F
+
+Sure\ to\ delete? = Sure to delete?
+
+Test\ DB\ Connection = \u6E2C\u8A66\u8CC7\u6599\u5EAB\u9023\u7DDA
+
+The\ date\ you\ inputed\ is\ illegal = The date you inputed is illegal
+
+Update = update
+
+Warning = Warning
+
+Without\ Setting = \u8ACB\u5148\u8A2D\u5B9A\u8CC7\u6599\u5EABIP\u4F4D\u7F6E\u53CAPort\u65B9\u53EF\u4F7F\u7528\u672C\u7A0B\u5F0F\uFF01
+
+Wrong\ username\ or\ password = Wrong username or password
+
+You\ can\ only\ input\ yes\ or\ no = You can only input yes or no
+
+You\ have\ to\ fill\ all\ fields\ \! = You have to fill all fields !
+
+You\ have\ to\ find\ all\ package\ and\ fill\ all\ fields\ \! = You have to find all package and fill all fields !
+
+You\ must\ choose\ a\ excel\ file = You must choose a excel file
+
+You\ must\ fill\ all\ fields = You must fill all fields
+
+change\ password = change password
+
+created_at = created_at
+
+created_by = created_by
+
+customer = customer
+
+customerOrderNo = customerOrderNo
+
+cutomer\ history = cutomer history
+
+deleted\ user = deleted user
+
+excel = excel
+
+fileButton = \u9078\u64C7\u6A94\u6848
+
+function = \u529F\u80FD
+
+illegal = illegal
+
+info = \u95DC\u65BC\u672C\u7A0B\u5F0F
+
+input = \u5165\u5EAB
+
+input\ yes\ or\ no = input yes or no
+
+is\ admin = is admin
+
+isAdmin = isAdmin
+
+last\ login = last login
+
+last_login = last_login
+
+login = Login
+
+lot = lot
+
+name = name
+
+no\ data = no data
+
+not\ shipped = not shipped
+
+output = \u51FA\u8CA8
+
+output\ success = output success
+
+outputDate = outputDate
+
+outputNo = outputNo
+
+package\ output = package output
+
+packagelist = Package List
+
+password = password
+
+password\ can't\ be\ blank = password can't be blank
+
+query = query
+
+read = read
+
+readList = Read package
+
+repoquery = repoquery
+
+reset = Reset
+
+save = \u5132\u5B58
+
+search = search
+
+serial\ output = serial output
+
+serialNoQuery = serialNoQuery
+
+setting = \u8A2D\u5B9A
+
+shipped = shipped
+
+status = status
+
+stor = stor
+
+turnover = turnover
+
+unknown\ package\ no = unknown package no
+
+unknownList = unknown
+
+unpackagelist = Unpackpage List
+
+update\ customer\ faild = update customer faild
+
+update\ customer\ success = update customer success
+
+update\ faild = update faild
+
+update\ password\ faild = update password faild
+
+update\ password\ success = update password success
+
+update\ success = update success
+
+user = User
+
+username = \u4F7F\u7528\u8005\u5E33\u865F
+
+username\ can't\ be\ blank = username can't be blank
+
+valid = valid
